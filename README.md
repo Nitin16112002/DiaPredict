@@ -53,10 +53,4 @@ The model was trained and evaluated using **accuracy, precision, recall, F1-scor
 
 ---
 
-## **📌 Installation & Setup**
-To run this project locally, follow these steps:
 
-### **1️⃣ Clone the Repository**
-```bash
-git clone https://github.com/yourusername/diabetes-prediction.git
-cd diabetes-prediction
