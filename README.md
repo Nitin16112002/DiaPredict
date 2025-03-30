@@ -5,7 +5,7 @@ This project focuses on developing a **machine learning model** to predict **dia
 
 ---
 
-## **📂 Dataset**
+## **📂 Dataset** 
 The dataset contains the following features:
 
 | Feature | Description |
